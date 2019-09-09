@@ -20,6 +20,8 @@ Examples and blocks for the Icesbreaker FPGA board.
 ## Examples
 * *01-Basic*
   * 01-Red-led-on
+  * 02-Red-green-leds-on
+  * 03-Pushbutton-led
 
 
 ## Authors
