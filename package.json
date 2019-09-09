@@ -1,0 +1,18 @@
+{
+  "name": "Icesbreaker-examples",
+  "version": "0.1.0",
+  "description": "Examples and blocks for the Icesbreaker FPGA board",
+  "keywords": "Tutorial, examples, icesbreaker",
+  "license": "GPL-2.0",
+  "authors": [{
+    "name": "Juan González-Gómez (Obijuan)",
+    "email": "obijuan.cube@gmail.com",
+    "url": "https://github.com/Obijuan"
+  }],
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "branch": "master",
+    "url": ""
+  }
+}
