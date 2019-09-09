@@ -1,4 +1,4 @@
-# Icesbreaker-examples Collection
+# Icebreaker-examples Collection
 
 [![Icestudio](https://img.shields.io/badge/collection-icestudio-blue.svg)](https://github.com/FPGAwars/icestudio)
 ![Version](https://img.shields.io/badge/version-v0.1.0-orange.svg)
