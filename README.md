@@ -7,11 +7,19 @@ Examples and blocks for the Icesbreaker FPGA board.
 
 ## Install
 
-* Download the collection
+* Download the collection: [stable](https://github.com/FPGAwars/icebreaker-collection/archive/v0.1.0.zip) or [development](https://github.com/FPGAwars/icebreaker-collection/archive/master.zip)
 * Install the collection: *Tools > Collections > Add*
 * Load the collection: *Select > Collection*
 
+## Blocks
+* *Const*
+  * *Bits*
+    * 0
+    * 1
 
+## Examples
+* *01-Basic*
+  * 01-Red-led-on
 
 
 ## Authors
